@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/linuxbrew/.linuxbrew/opt/nlohmann-json",
+                "/home/linuxbrew/.linuxbrew/Cellar/nlohmann-json/3.11.3/include"
+            ],
+            "defines": [],
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

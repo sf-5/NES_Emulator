@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sam/NES_Emulator/build",
+  "command": "/usr/bin/g++ -isystem /home/linuxbrew/.linuxbrew/include -g -o CMakeFiles/main.dir/main.cpp.o -c /home/sam/NES_Emulator/main.cpp",
+  "file": "/home/sam/NES_Emulator/main.cpp"
+},
+{
+  "directory": "/home/sam/NES_Emulator/build",
+  "command": "/usr/bin/g++ -isystem /home/linuxbrew/.linuxbrew/include -g -o CMakeFiles/main.dir/Bus.cpp.o -c /home/sam/NES_Emulator/Bus.cpp",
+  "file": "/home/sam/NES_Emulator/Bus.cpp"
+},
+{
+  "directory": "/home/sam/NES_Emulator/build",
+  "command": "/usr/bin/g++ -isystem /home/linuxbrew/.linuxbrew/include -g -o CMakeFiles/main.dir/CPU.cpp.o -c /home/sam/NES_Emulator/CPU.cpp",
+  "file": "/home/sam/NES_Emulator/CPU.cpp"
+}
+]

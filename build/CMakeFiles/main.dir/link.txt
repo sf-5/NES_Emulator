@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Bus.cpp.o CMakeFiles/main.dir/CPU.cpp.o -o main 

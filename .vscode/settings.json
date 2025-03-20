@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "files.associations": {
+        "*.c": "c",
+        "cstdint": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
