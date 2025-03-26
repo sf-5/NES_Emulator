@@ -1,0 +1,5 @@
+C:/Users/agras/CSProjects/NES_Emulator/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/agras/CSProjects/NES_Emulator/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/agras/CSProjects/NES_Emulator/out/build/x64-debug/NES_Emulator/CMakeFiles/NES_Emulator.dir
+C:/Users/agras/CSProjects/NES_Emulator/out/build/x64-debug/NES_Emulator/CMakeFiles/edit_cache.dir
+C:/Users/agras/CSProjects/NES_Emulator/out/build/x64-debug/NES_Emulator/CMakeFiles/rebuild_cache.dir

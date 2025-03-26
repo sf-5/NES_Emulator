@@ -1,0 +1,11 @@
+# ninja log v6
+42	3443	7646977453278068	NES_Emulator/CMakeFiles/NES_Emulator.dir/NES_Emulator.cpp.obj	38083836231ecf51
+3444	4129	7646977487345187	NES_Emulator/NES_Emulator.exe	1593b822eceb2454
+7	557	7646612334540457	NES_Emulator/CMakeFiles/NES_Emulator.dir/CPU.cpp.obj	15de8a12a22c4ff1
+69	1601	7645467563380436	NES_Emulator/CMakeFiles/NES_Emulator.dir/Bus.cpp.obj	16034a9032e29e84
+46	3715	7646977994217690	NES_Emulator/CMakeFiles/NES_Emulator.dir/NES_Emulator.cpp.obj	38083836231ecf51
+3715	4413	7646978030904566	NES_Emulator/NES_Emulator.exe	1593b822eceb2454
+7	3146	7647009005692546	NES_Emulator/CMakeFiles/NES_Emulator.dir/NES_Emulator.cpp.obj	38083836231ecf51
+3149	3897	7647009037104475	NES_Emulator/NES_Emulator.exe	1593b822eceb2454
+39	3752	7647009804551773	NES_Emulator/CMakeFiles/NES_Emulator.dir/NES_Emulator.cpp.obj	38083836231ecf51
+3753	4624	7647009841682283	NES_Emulator/NES_Emulator.exe	1593b822eceb2454
